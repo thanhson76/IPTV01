@@ -118,16 +118,16 @@ https://vod-h12-hlc.tv360.vn:18443/57_2.m3u8?Range=176066351-176066352&SessionID
 
 #-------------------360TV-------------------#
 
-#EXTINF:-1 group-title="360TV" tvg-logo="https://imgur.com/Fp52ROq",360_1
+#EXTINF:-1 group-title="360TV" tvg-logo="https://i.imgur.com/Fp52ROq.png",360_1
 https://ec04-pop4-hlc.tv360.vn/bpk-token/4md7irqfbh2en5qwkvroeb7ui3rqp5cg/bpk-tv/198/output/198-audio_133600_eng=131600-video=3621600.m3u8
 
-#EXTINF:-1 group-title="VTV Cab" tvg-logo="https://imgur.com/Fp52ROq",360-2
+#EXTINF:-1 group-title="VTV Cab" tvg-logo="https://i.imgur.com/Fp52ROq.png",360-2
 https://ec04-pop4-hlc.tv360.vn/bpk-token/cd3baj5u7aicocgqwebrd5qqe4ipmebh/bpk-tv/199/output/199-audio_133600_eng=131600-video=3621600.m3u8
 
-#EXTINF:-1 group-title="VTV Cab" tvg-logo="https://imgur.com/Fp52ROq",360-3
+#EXTINF:-1 group-title="VTV Cab" tvg-logo="https://i.imgur.com/Fp52ROq.png",360-3
 https://live-zlr1.tv360.vn/manifest/Su_Kien_3/playlist_1080p.m3u8?timestamp=1722418995&token=6017cbd14ce9e16a584b57024a5de5d6&uid=231238171
 
-#EXTINF:-1 group-title="VTV Cab" tvg-logo="https://imgur.com/Fp52ROq",360-4
+#EXTINF:-1 group-title="VTV Cab" tvg-logo="https://i.imgur.com/Fp52ROq.png",360-4
 https://live-zlr1.tv360.vn/manifest/Su_Kien_4/playlist_1080p.m3u8?timestamp=1722419019&token=a7d052b6de2a26d9935a0ea20ea71795&uid=231238171
 
 #-------------------Thiết yếu-------------------#
