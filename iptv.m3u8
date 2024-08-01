@@ -6,10 +6,10 @@
 https://ec04-pop4-hlc.tv360.vn/bpk-token/xgsvw7ytnnhx6pi4cvnlrjk3p642kw37/bpk-tv/154/output/154-audio_214400_eng=212400-video=1752000.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/pqPWPzf.jpg",VTV2 HD
-https://ec05-pop4-hlc.tv360.vn/bpk-token/puih475tdz7h7cuy4fnx6ed6p56ra7t7/bpk-tv/192/output/192-audio_133600_eng=131600-video=3621600.m3u8
+https://ec04-pop4-hlc.tv360.vn/bpk-token/viyomcxf73zavztgvex2qmhgbkvdbzqk/bpk-tv/192/output/192-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/Bsaeckx.jpg",VTV3 HD
-https://ec03-pop4-hlc.tv360.vn/bpk-token/55auyajcj5gac4742ms64qkmahxuctab/bpk-tv/155/output/155-audio_133600_eng=131600-video=3621600.m3u8
+https://ec01-pop4-hlc.tv360.vn/bpk-token/ha77syxo6hwwfwklwzdtup7zmi4d76lc/bpk-tv/155/output/155-audio_133600_eng=131600-video=1752000.m3u8
 
 #EXTINF:-1 group-title="VTV" tvg-logo="https://i.imgur.com/jWfsKve.png",VTV4 HD
 udp://@225.1.2.20:30120
