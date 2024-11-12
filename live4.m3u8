@@ -1,0 +1,39 @@
+#EXTM3U
+#EXTINF:-1 group-title="VTV" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2020_09_23/1600822532144/64430eab8048_480_270.png",VTV2 HD
+https://tv.TruyenHinh.Click/CoBan/vtv2hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 group-title="VTV" tvg-logo="https://tv.truyenhinh.click/HoiQuanLogo/?logo=https://img-zlr1.tv360.vn/image1/2020_09_23/1600822363854/4e5e7832df14_480_270.png",VTV3 HD
+https://tv.TruyenHinh.Click/CoBan/vtv3hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 group-title="🥅Thể Thao QT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bein-sports-us.png?raw=true",BEIN SPORTS
+https://tv.TruyenHinh.Click/QuocTe/beIN.Sports.HDTV.(English).(beIn).us/TruyenHinh.Click
+#EXTINF:-1 group-title="🥅Thể Thao QT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/big-ten-network-us.png?raw=true",Big Ten Network HD
+https://tv.TruyenHinh.Click/QuocTe/Big.Ten.Network.HDTV.(National).(BTNHD).us/TruyenHinh.Click
+#EXTINF:-1 group-title="🥅Thể Thao QT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s16365_dark_360w_270h.png",CBS SPORTS NETWORK
+https://tv.TruyenHinh.Click/QuocTe/CBS.Sports.Network.HDTV.(CBSSD).us/TruyenHinh.Click
+#EXTINF:-1 group-title="🤡Giải Trí QT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/bounce-us.png?raw=true",Bounce
+https://tv.TruyenHinh.Click/QuocTe/Bounce.TV.(Bounce).us/TruyenHinh.Click
+#EXTINF:-1 group-title="🤡Giải Trí QT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10057_dark_360w_270h.png",BRAVO
+https://tv.TruyenHinh.Click/QuocTe/Bravo.HDTV.(East).(BRAVOD).us/TruyenHinh.Click
+#EXTINF:-1 group-title="🤡Giải Trí QT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10138_dark_360w_270h.png",CMT
+https://tv.TruyenHinh.Click/QuocTe/CMT.HDTV.(East).(CMTHD).us/TruyenHinh.Click
+#EXTINF:-1 group-title="🤡Giải Trí QT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10149_dark_360w_270h.png",COMEDY CENTRAL
+https://tv.TruyenHinh.Click/QuocTe/Comedy.Central.HDTV.(East).(CMDHD).us/TruyenHinh.Click
+#EXTINF:-1 group-title="🤡Giải Trí QT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s30156_dark_360w_270h.png",COOKING
+https://tv.TruyenHinh.Click/QuocTe/The.Cooking.Channel.HDTV.(COOKHD).us/TruyenHinh.Click
+#EXTINF:-1 group-title="🤡Giải Trí QT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s12574_dark_360w_270h.png",FOOD NETWORK
+https://tv.TruyenHinh.Click/QuocTe/Food.Network.HDTV.(East).(FOODHD).us/TruyenHinh.Click
+#EXTINF:-1 group-title="🤡Giải Trí QT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s10093_dark_360w_270h.png",Freeform
+https://tv.TruyenHinh.Click/QuocTe/Freeform.HDTV.(East).(FRFHD).us/TruyenHinh.Click
+#EXTINF:-1 group-title="🤡Giải Trí QT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.amazonaws.com/stationLogos/s14929_dark_360w_270h.png",Fuse
+https://tv.TruyenHinh.Click/QuocTe/Fuse.HDTV.(East).(FUSED).us/TruyenHinh.Click
+#EXTINF:-1 group-title="🤡Giải Trí QT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14321_dark_360w_270h.png",FX
+https://tv.TruyenHinh.Click/QuocTe/FX.HDTV.(East).(FX.HD).us/TruyenHinh.Click
+#EXTINF:-1 group-title="🤡Giải Trí QT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s17927_dark_360w_270h.png",FXX
+https://tv.TruyenHinh.Click/QuocTe/FXX.HDTV.(East).(FXXHD).us/TruyenHinh.Click
+#EXTINF:-1 group-title="🤡Giải Trí QT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/fyi-us.png?raw=true",FYI FHD
+https://tv.TruyenHinh.Click/QuocTe/FYI.HDTV.(FYIHD).us/TruyenHinh.Click
+#EXTINF:-1 group-title="🤡Giải Trí QT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/get-tv-us.png?raw=true",getTV
+https://tv.TruyenHinh.Click/QuocTe/getTV.Network.(getTV).us/TruyenHinh.Click
+#EXTINF:-1 group-title="🤡Giải Trí QT" tvg-logo="http://schedulesdirect-api20141201-logos.s3.dualstack.us-east-1.amazonaws.com/stationLogos/s14902_dark_360w_270h.png",HGTV
+https://tv.TruyenHinh.Click/QuocTe/Home.and.Garden.Television.HDTV.(East).(HGTVD).us/TruyenHinh.Click
+#EXTINF:-1 group-title="🤡Giải Trí QT" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-states/ion-television-us.png?raw=true",ION
+https://tv.TruyenHinh.Click/QuocTe/ION.DirecTV.(ION.E).us/TruyenHinh.Click

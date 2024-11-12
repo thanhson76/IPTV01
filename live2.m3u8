@@ -1,0 +1,77 @@
+#EXTM3U
+#EXTINF:-1 ,like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://live-cdn01.volam.pro:8443/pini=sv2.localhost.ini/kubolive_channel.stream/index.m3u8?pini=sv2.localhost.ini
+#EXTINF:-1 ,like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://live-cdn01.volam.pro:8443/pini=sv2.localhost.ini/kubolive_channel_2.stream/index.m3u8?pini=sv2.localhost.ini
+#EXTINF:-1 ,like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vc.101vn.com/htv/htvcmb.php?id=256
+#EXTINF:-1 ,like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://thvip.site/htv7/index.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vc.101vn.com/htv/htvcmb.php?id=2667
+#EXTINF:-1 ,like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://thvip.site/htvtt/index.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://thvip.site/thuanviet/index.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://thvip.site/giadinh/index.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://thvip.site/canhac/index.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://thvip.site/htvcphim/index.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://thvip.site/htvcplus/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=VThanhTivi
+https://liveh34.vtvcab.vn/hls/ONANTV_CL/04.m3u8
+#EXTINF:-1 group-title="🌐| Thiết yếu" tvg-logo="https://cdn.hqth.me/logo/thumbs/91.png",VNews
+https://liveh34.vtvcab.vn/hls/TTXVN_VNEWS/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://arpt.tvic.vn/live/nhandan720/chunklist_w1856690367.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/chunklist.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://thvip.site/anvien/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=VThanhTivi
+https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/131.png",PTD | Truyền Hình Đắk Nông
+https://cloudstreamthdn.tek4tv.vn/live/smil:daknong.smil/chunklist_w361616628_b3128000_sleng.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/chunklist.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/chunklist.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://thvip.site/binhduong2/index.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/166.png",QRT HD |Truyền Hình Quảng Nam
+https://live.fptplay53.net/epzsd1/quangnam_hls.smil/chunklist_b2500000.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/166.png",QRT HD |Truyền Hình Quảng Nam (Web)
+https://beta.qrt.vn/hls-live/livepkgr/_definst_/liveevent/livestream.m3u8
+#EXTINF:-1 group-title="Địa phương" tvg-logo="http://cdn.hqth.me/logo/thumbs/155.png",LTV HD | Truyền Hình Lâm Đồng (Web)
+http://118.107.85.5:1935/live/smil:LTV.smil/chunklist_w1918805893_b1384000.m3u8
+#EXTINF:-1 ,like Gecko) CriOS/125.0.0.0 Mobile/15E148 Safari/604.1
+http://125hvt.ddns.net:21585/hbo/index.m3u8
+#EXTINF:-1 ,like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/cinemax720p
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=VThanhTivi
+https://stream1.freetv.fun/cinemax-7.ts
+#EXTINF:-1 ,like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://tth.vn/cinemaworld720p
+#EXTINF:-1 ,like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://antm.dynu.net:14285/rtp/232.84.1.18:8082
+#EXTINF:-1 ,like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://antm.dynu.net:14285/rtp/232.84.3.222:11254
+#EXTINF:-1 ,like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://antm.dynu.net:14285/rtp/232.84.2.144:10684
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://www.babytv.com/app/uploads/2019/12/LogoBabyTV-2019.png",BabyTV
+http://ky-iptv.com:80/live/Ivica5274/juric4005/1105474.ts
+#EXTINF:-1 ,like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+http://antm.dynu.net:14285/rtp/232.84.3.227:11284
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://static.wikia.nocookie.net/logos/images/c/c2/Love_Nature_4K.png/revision/latest?cb=20211105035409&path-prefix=vi",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/210.png",BBC Earth
+http://antm.dynu.net:14285/rtp/232.84.3.226:11278
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/211.png",BBC Lifestyle
+http://antm.dynu.net:14285/rtp/232.84.3.225:11272
+#EXTINF:-1 group-title="Quốc Tế" tvg-logo="https://cdn.hqth.me/logo/thumbs/212.png",BBC Cbeebies
+http://antm.dynu.net:14285/rtp/232.84.1.90:10398
+#EXTINF:-1 group-title="Radio" tvg-logo="http://www.haiduongtv.com.vn/upload/news/icon//20.2018/1526269157_NENPHATTHANH.jpg",Hải Dương
+http://113.160.131.11:8000/
