@@ -21,6 +21,7 @@ https://api.wintv.me/360/6/index.m3u8
 https://api.wintv.me/360/115/index.m3u8
 #EXTINF:-1 group-title="❤| VTV" tvg-logo="https://i.imgur.com/Ex1VkGQ.png",VTV9
 https://api.wintv.me/360/8/index.m3u8
+
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
 https://api.wintv.me/360/180/index.m3u8
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
@@ -53,6 +54,7 @@ https://api.wintv.me/360/179/index.m3u8
 https://api.wintv.me/360/188/index.m3u8
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/Sqo9Luk.png",BTV5 — On Sports Action
 https://api.wintv.me/360/2380/index.m3u8
+
 #EXTINF:-1 group-title="💙| VTC" tvg-logo="https://i.imgur.com/7HD60aD.png",VTC1
 http://p1.cvtv.xyz/vtc1?token=live
 #EXTINF:-1 group-title="💙| VTC" tvg-logo="https://i.imgur.com/WUUXS6T.png",VTC2
@@ -79,6 +81,7 @@ https://api.wintv.me/360/205/index.m3u8
 https://api.wintv.me/360/17/index.m3u8
 #EXTINF:-1 group-title="💙| VTC" tvg-logo="https://i.imgur.com/rltq2Dy.png",VTC16
 https://api.wintv.me/360/18/index.m3u8
+
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/KEMSBD3.png",HTV1
 https://api.wintv.me/360/190/index.m3u8
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png",HTV2
@@ -107,6 +110,7 @@ https://api.wintv.me/360/12/index.m3u8
 https://api.wintv.me/360/13/index.m3u8
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
 https://api.wintv.me/360/132/index.m3u8
+
 #EXTINF:-1 group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/YtZGuSy.png",KÊNH 7 — Truyền Hình Quốc Hội Việt Nam
 http://p1.cvtv.xyz/ttxvn?token=live
 #EXTINF:-1 group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/QztqOe0.png",ANTV — Truyền Hình Công An Nhân Dân
@@ -119,10 +123,12 @@ https://arpt.tvic.vn/live/nhandan720/playlist.m3u8
 https://oipf0znpmnliv.vcdn.cloud/hls/quocphongvn/index.m3u8
 #EXTINF:-1 group-title="🌐| Thiết yếu" tvg-logo="https://i.imgur.com/tfYNZmG.png",VOV TV
 https://live.mediatech.vn/live/285fbc845578c6641d5a4c40534a0d1864b/playlist.m3u8
+
 #EXTINF:-1 group-title="Khác" tvg-logo="https://i.imgur.com/FsDtbV5.png",SCTV6
 https://api.wintv.me/360/232/index.m3u8
 #EXTINF:-1 group-title="Khác" tvg-logo="https://i.imgur.com/78fQx65.png",HiTV
 https://api.wintv.me/360/32/index.m3u8
+
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/pTVybK6.png",THVL1
 https://api.wintv.me/360/25/index.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/MsHdGNZ.png",THVL2
@@ -259,13 +265,11 @@ https://live.tuyenquangtv.vn/hls/ttv.m3u8
 http://vinhphuctv.vn:8090/vinhphuclive/web.stream/playlist.m3u8
 #EXTINF:-1 group-title="🇻🇳| Địa phương" tvg-logo="https://i.imgur.com/WKneY2w.png",YTV HD | TH Yên Bái
 https://live.yenbaitv.org.vn/hls/livestream.m3u8
+
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/H2tGzri.png",ABC Australia
 http://49.0.64.96:8007/ABC
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/Sv8C4XK.png",Aljazeera International
 http://live-hls-web-aje.getaj.net/AJE/01.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/odiBT9V.png",Animal Planet Asia
-https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/pux6WN8.png",Asian Food Network
 https://api.wintv.me/360/215/index.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/DZNTBjC.png",ARIRANG World
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
@@ -275,12 +279,6 @@ https://khanggtivi.xyz/vuminhthanh/vmt2024/axn/index.m3u8
 https://cdn4.skygo.mn/live/disk1/BBC_News/HLSv3-FTA/BBC_News.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/OuogLHx.png",Bloomberg TV
 http://p1.cvtv.xyz:81/bb?token=live
-#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia
-http://s4.nihontv.net:21585/cartoon/index.m3u8
-#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia HD
-https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
-#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito Asia
-https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/6s4pYkx.png",CCTV-4 Asia
 http://p1.cvtv.xyz:81/c4?token=live
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/6s4pYkx.png",CCTV-4 Asia HD
@@ -297,40 +295,16 @@ https://news.cgtn.com/resource/live/french/cgtn-f.m3u8
 http://liveru.cgtn.com/1000r/prog_index.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/AkFFrS7.png",CGTN العربية
 http://livear.cgtn.com/1000a/prog_index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/V8AUJP6.png",Da Vinci Asia
-http://sc.id-tv.kz/DaVinci_34_35.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/A1xzjOI.png",Deutsche Welle English
 http://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/stream05/streamPlaylist.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
-https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8GG7Ny9.png",Discovery SD Asia
-http://s4.nihontv.net:21585/discovery/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8GG7Ny9.png",Discovery HD Asia
-https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
-#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/C0VEHXU.png",Discovery Kids
-https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/XBz4I65.png",Discovery Science Asia
-https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/WuOhLl4.png",Discovery Turbo Asia
-https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
 #EXTINF:-1 ,like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://khanggtivi.xyz/vuminhthanh/vmt2024/dreamworks/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/CDsoyjN.png",DMAX Asia
-https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/0iOuMds.png",EURONEWS English
 http://p1.cvtv.xyz:81/euro?token=live
 #EXTINF:-1 group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/6u4tZn6.png",Fashion TV Asia
 http://188.113.190.15/194/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/no9Mv3X.png",France 24 English
 http://p1.cvtv.xyz:81/f24?token=live
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GYsKibK.png",Food Network Asia
-https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/IXJiDZh.png",HGTV Asia
-https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/L8JPlBj.png",History Asia
-https://api.wintv.me/360/9856/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/2DxwN2m.png",Investigation Discovery Asia
-https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/Dy1xwEd.png",KBS Korea
 https://cdn1.skygo.mn/live/disk1/KBS_World_24/HLS-FTA/KBS_World_24.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/vylHBC8.png",KBS World
@@ -339,14 +313,10 @@ https://cdn1.skygo.mn/live/disk1/KBSWorld/HLS-FTA/KBSWorld.m3u8
 https://tv.nknews.org/tvdash/stream.mpd
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/7j8Lnog.png",Lotus Macau Satellite TV
 https://cdn1.skygo.mn/live/disk1/Lotus/HLS-FTA/Lotus.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/oDacp1F.png",Love Nature 4K
-https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/Et3vExm.png",NHK WORLD JAPAN
 https://nhkwlive-ojp.akamaized.net/hls/live/2003459/nhkwlive-ojp-en/index_1M.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/4ESi2La.png",NHK World Premium
 https://cdn1.skygo.mn/live/disk1/NHK_World_Premium/HLS-FTA/NHK_World_Premium.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/isCqVcE.png",Outdoor
-https://api.wintv.me/360/216/index.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/jP0rB8j.png",Sky News
 http://p1.cvtv.xyz:81/skn?token=live
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/tYr9IVZ.png",Phoenix Chinese
@@ -355,11 +325,6 @@ https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
 https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/Fbli6Ml.png",Russia Today
 https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",Russia Today Documentary
-http://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC Asia
-https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/rNfzYP5.png",Travel Channel Asia
 https://denver1769.pages.dev/Discovery/trvl_channel_hd_english.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/FRsRXRR.png",TV5Monde ASIE
 https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
@@ -371,96 +336,175 @@ https://khanggtivi.xyz/vuminhthanh/vmt2024/warnertv/index.m3u8
 https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/f0rpZtH.png",ZEE News
 https://dknttpxmr0dwf.cloudfront.net/index_2.m3u8
-#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/ciTJrnl.png",ZooMoo
-https://zoomoo-samsungau.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="📦| In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
-https://api.wintv.me/360/163/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/021IBxT.png",Первый канал
-https://streaming.goodstream.cyou/live/210-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/5P046h1.png",Россия РТР
-https://streaming.thestream.cyou/live/211-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/pUcV46F.png",НТВ МИР
-https://streaming.thestream.cyou/live/213-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/cVvzJ8D.png",Пятый канал
-http://31.148.6.9:10005/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/tpqsFzm.png",Россия 24
-https://streaming.thestream.cyou/live/30-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/4fFMlVq.png",Карусель International
-https://streaming.thestream.cyou/live/232-req_offset_28000000-req_window_0-1k_v5.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/QyZvT3e.png",Общественное Телевидение России
-http://31.148.6.9:10009/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o2/rentv/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/yY39nMg.png",СПАС ТВ
-https://spas.mediacdn.ru/cdn/spas/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/ilUzAeb.png",СТС International
-https://cdn1.skygo.mn/live/disk1/STS/HLS-FTA/STS.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/1gbodu1.png",Домашний International
-http://45.159.74.13:80/Domashniy/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/JLAvq8O.png",ТВ-3 International
-http://stream01.vnet.am/Channel_121/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/UfmlXxe.png",Пятница International
-https://cdn1.skygo.mn/live/disk1/Friday/HLS-FTA/Friday.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/wL7YzlO.png",МИР
-http://188.113.190.15/217/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/T4A6rEI.png",ТНТ
-http://31.148.6.9:10019/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o5/chetv/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/I2DUC7C.png",СТС Love
-http://31.148.48.15:80/STS_Love/index.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/On6ggLe.png",Peretz International
-https://cdn1.skygo.mn/live/disk1/Che/HLS-FTA/Che.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o7/tnt4/playlist.m3u8
-#EXTINF:-1 group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/RenuH4S.png",ТНТ Music
-http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/fhQFLEl.png",2x2
-http://31.148.48.15:80/2x2/index.m3u8?token=test
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/nsk8PpB.png",Суббота
-http://31.148.48.15:80/Super/index.m3u8?token=test
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o3/utv/playlist.m3u8
-#EXTINF:-1 group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/5VpO0OH.png",RU.TV HD
-http://188.113.190.15/59/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o1/rbktv/playlist.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/bvuV8UG.png",Телеканал Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/dj9c8Yd.png",МИР 24
 http://188.113.190.15/120/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/dj9c8Yd.png",МИР 24 HD
 http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/462BK5j.png",360.RU
-http://146.158.0.56/360HD/index.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/9BhhM7r.png",360.RU Новости
 http://188.113.190.15/226/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/q3JCAC3.png",8 канал
-http://146.158.0.56:80/8kanal/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/jhqLy0N.png",Башкирское спутниковое телевидение
-http://bsttv.bonus-tv.ru:80/cdn/bst/playlist_sdhigh.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/GTXkAUu.png",Енисей
-http://hls-eniseytv.cdnvideo.ru/eniseytv/stream1/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/mr2Peqj.png",Катунь 24
-https://live.katun24.ru:8082/katun/katun/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/GYVF3cI.png",Кузбасс Первый
-http://192.162.37.3:8000/play/a00m/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/hZXBD9F.png",Курай-ТВ
-http://bsttv.bonus-tv.ru:80/cdn/kurai/playlist_sdhigh.m3u8
 #EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/gXbUMVy.png",Москва 24
 http://188.113.190.15/66/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/QDqDQzt.png",Москва Доверие
-http://188.113.190.15/86/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/0nEOLC3.png",Продвижение
-http://83.166.243.97:8081/ltv1TNT/1/chunks.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/qSYXQxD.png",ОТВ Екатеринбург
-http://91.192.168.251:8301/6kanal.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/rW1BeJC.png",ТВК HD
-http://air.tvk6.ru/tvk24/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/ijA1zDw.png",ТНВ-Планета
-http://planeta.mediacdn.ru/cdn/tnvplanet/tracks-v1a1/mono.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/w3OewHc.png",Союз
-http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/CfRvm8i.png",Atameken Business
+http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
+#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/38UPLa9.png",UA WORLD TV
+
+#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia
+http://s4.nihontv.net:21585/cartoon/index.m3u8
+#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/9aw5DAe.png",Cartoon Network Asia HD
+https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
+#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/C8nDHeY.png",Cartoonito Asia
+https://cdn1.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
+#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/ciTJrnl.png",ZooMoo
+https://zoomoo-samsungau.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/C0VEHXU.png",Discovery Kids
+https://denver1769.pages.dev/Discovery/discovery_kids_hindi.m3u8
+#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/i2AP0hp.png",Ani
+http://188.113.190.15/102/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/mDeTbaF.png",FAN
+http://94.232.104.237:8011/fan/index.m3u8
+#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/lbViDuC.png",Gulli Girl
+http://sc.id-tv.kz/Gulli_34_35.m3u8
+#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/kmMIjjf.png",Мама
+http://188.113.190.15/87/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/xi351Fx.png",Мульт
+https://stream01.vnet.am/Mult/playlist.m3u8
+#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/ccwijY0.png",Мультиландия
+http://188.113.190.15/108/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/pDc665V.png",О!
+http://188.113.190.15/136/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/aigjmea.png",Детский мир
+http://45.159.74.14/CartoonNetwork/index.m3u8
+#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/rec9akk.png",Солнце
+http://188.113.190.15/18/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/o9kLpAL.png",СТС Kids
+http://188.113.190.15/132/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/kSJZjDL.png",УНИКУМ
+http://188.113.190.15/41/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/QCOUJ30.png",Tiji
+
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/odiBT9V.png",Animal Planet Asia
+https://denver1769.pages.dev/Discovery/animal_planet_hd_english.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/pux6WN8.png",Asian Food Network
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aeu5zIC.png",Russia Today Documentary
+http://rt-rtd.rttv.com/live/rtdoc/playlist_4500Kb.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZStxdQI.png",TLC Asia
+https://denver1769.pages.dev/Discovery/tlc_hd_english.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/rNfzYP5.png",Travel Channel Asia
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GYsKibK.png",Food Network Asia
+https://denver1769.pages.dev/Discovery/food_network_hd_english.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/IXJiDZh.png",HGTV Asia
+https://denver1769.pages.dev/Discovery/hgtv_hd_english.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/L8JPlBj.png",History Asia
+https://api.wintv.me/360/9856/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/2DxwN2m.png",Investigation Discovery Asia
+https://denver1769.pages.dev/Discovery/id_hd_english.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/V8AUJP6.png",Da Vinci Asia
+http://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/STCTI1F.png",Discovery Asia
+https://cdn1.skygo.mn/live/disk1/Discovery_Asia/HLS-FTA/Discovery_Asia.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8GG7Ny9.png",Discovery SD Asia
+http://s4.nihontv.net:21585/discovery/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8GG7Ny9.png",Discovery HD Asia
+https://denver1769.pages.dev/Discovery/discovery_hd_english.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/XBz4I65.png",Discovery Science Asia
+https://denver1769.pages.dev/Discovery/discovery_science_english.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/WuOhLl4.png",Discovery Turbo Asia
+https://denver1769.pages.dev/Discovery/discovery_turbo.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/CDsoyjN.png",DMAX Asia
+https://denver1769.pages.dev/Discovery/dmax_hd.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/oDacp1F.png",Love Nature 4K
+https://d18dyiwu97wm6q.cloudfront.net/playlist2160p.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/isCqVcE.png",Outdoor
+https://api.wintv.me/360/216/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/NfnAiTR.png",365
+http://188.113.190.15/36/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/fR3abSD.png",Galaxy
+http://188.113.190.15/62/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/tKgmhxh.png",HDL
+http://188.113.190.15/330/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG TV
+http://188.113.190.15/63/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZxUjCpF.png",Terra
+http://188.113.190.15/78/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
+http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/AlpdXC4.png",Travel+Adventure
+http://188.113.190.15/106/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/FqWkeXb.png",Viju History
+http://188.113.190.15/33/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8BPZ18l.png",Viju Nature
+http://188.113.190.15/28/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/EGIpLPu.png",Viju Explore
+http://188.113.190.15/32/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/IO5jegK.png",ZooПaрк
+http://188.113.190.15/46/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GXSXmN2.png",АВТО 24
+http://sc.id-tv.kz/Avto24.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/sVc8cFt.png",Авто плюс
+http://188.113.190.15/83/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/clWWhB8.png",Бобер
+http://188.113.190.15/131/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/vruuPKF.png",Большая Азия
+http://188.113.190.15/20/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/EOue13e.png",Дикая охота
+https://stream01.vnet.am/Channel_127/mono.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/e3BFVgt.png",Дикая рыбалка
+https://stream01.vnet.am/Channel_126/mono.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/VNirxxn.png",Доктор
+http://188.113.190.15/29/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ISJzQGP.png",Домашние животные
+http://188.113.190.15/72/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GXJKWdy.png",Глазами Туриста
+http://185.112.140.28:80/Glazami_Turista/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZZxzueO.png",Наука
+http://188.113.190.15/96/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/uIiAdBv.png",Моя Планета
+http://188.113.190.15/219/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/PmD17UQ.png",Кто есть кто
+http://188.113.190.15/220/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aR9AVxo.png",Кухня
+https://stream01.vnet.am/KukhnyaTv/playlist.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/eEjPail.png",История
+http://188.113.190.15/54/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/N1Ze5IE.png",Первый космический
+https://stream01.vnet.am/Evrika/playlist.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/DFw4Ej0.png",Поехали!
+http://188.113.190.15/206/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/qQ6pPPQ.png",Приключения
+https://stream01.vnet.am/PriklyucheniyaHd/playlist.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/nZwBaeW.png",Охота и рыбалка
+http://188.113.190.15/69/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/Bj1jI7F.png",Охотник и рыболов
+http://stream01.vnet.am/Channel_124/mono.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/YGqO3Us.png",Загородный
+https://stream01.vnet.am/DTX/mono.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/RoYd5pz.png",Загородная жизнь
+http://sc.id-tv.kz/Zagorod.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/TZiBQDK.png",Точка Отрыва
+http://188.113.190.15/183/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/eXJm1n3.png",Телепутешествия
+http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/1W6R14o.png",Техно 24
+http://188.113.190.15/40/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/O15eGBK.png",Тонус
+https://stream01.vnet.am/ZooTv/playlist.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/o3K1h5Q.png",Успех
+http://146.158.0.56:80/Uspeh/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/onNv1tM.png",Живая Планета
+http://188.113.190.15/89/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/9lHQPdN.png",Живая Природа
+http://178.212.71.253:8002/play/a00o/index.m3u8
+#EXTINF:-1 group-title="📦| In The Box" tvg-logo="https://i.imgur.com/s8nALCG.png",Woman
+https://api.wintv.me/360/163/index.m3u8
+
+
+
+#EXTINF:-1 group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/RenuH4S.png",ТНТ Music
+http://tntmsmotr.mediacdn.ru/cdn/smotr/playlist_sdhigh.m3u8
+#EXTINF:-1 group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/5VpO0OH.png",RU.TV HD
+http://188.113.190.15/59/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/4Ww7CsR.png",1HD Music TV
 http://188.113.190.15/192/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/lW3WIBD.png",Baby Time
@@ -489,6 +533,7 @@ http://188.113.190.15/109/tracks-v1a1/index.m3u8
 http://188.113.190.15/189/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🎧| Âm nhạc" tvg-logo="https://i.imgur.com/qkLrxZf.png",Шансон ТВ
 http://146.158.0.56/ShansonTV/mono.m3u8
+
 #EXTINF:-1 group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/qU9ohQu.png",Leomax 24
 http://188.113.190.15/204/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/T4iEBdx.png",Shop & Show
@@ -497,30 +542,7 @@ http://146.158.0.56/Shop&Show/mono.m3u8
 http://serv30.vintera.tv:8081/shoppinglive/shoppinglive_stream/playlist.m3u8
 #EXTINF:-1 group-title="🛒| Mua sắm" tvg-logo="https://i.imgur.com/IcWtXCZ.png",Ювелирочка ТВ
 http://188.113.190.15/17/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/i2AP0hp.png",Ani
-http://188.113.190.15/102/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/mDeTbaF.png",FAN
-http://94.232.104.237:8011/fan/index.m3u8
-#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/lbViDuC.png",Gulli Girl
-http://sc.id-tv.kz/Gulli_34_35.m3u8
-#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/kmMIjjf.png",Мама
-http://188.113.190.15/87/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/xi351Fx.png",Мульт
-https://stream01.vnet.am/Mult/playlist.m3u8
-#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/ccwijY0.png",Мультиландия
-http://188.113.190.15/108/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/pDc665V.png",О!
-http://188.113.190.15/136/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/aigjmea.png",Детский мир
-http://45.159.74.14/CartoonNetwork/index.m3u8
-#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/rec9akk.png",Солнце
-http://188.113.190.15/18/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/o9kLpAL.png",СТС Kids
-http://188.113.190.15/132/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/kSJZjDL.png",УНИКУМ
-http://188.113.190.15/41/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌈| Hoạt hình" tvg-logo="https://i.imgur.com/QCOUJ30.png",Tiji
-https://stream01.vnet.am/Tiji/playlist.m3u8
+
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/Q4A6ci4.png",.Black
 http://188.113.190.15/186/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/GET9Qut.png",.Red
@@ -611,86 +633,9 @@ http://188.113.190.15/100/tracks-v1a1/index.m3u8
 http://188.113.190.15/221/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🎬| Phim truyện" tvg-logo="https://i.imgur.com/RlsqFN8.png",Русский Иллюзион
 http://188.113.190.15/44/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/NfnAiTR.png",365
-http://188.113.190.15/36/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/fR3abSD.png",Galaxy
-http://188.113.190.15/62/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/tKgmhxh.png",HDL
-http://188.113.190.15/330/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZMKPAho.png",RTG TV
-http://188.113.190.15/63/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZxUjCpF.png",Terra
-http://188.113.190.15/78/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o1/sovershennosekretno/playlist.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/AlpdXC4.png",Travel+Adventure
-http://188.113.190.15/106/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/FqWkeXb.png",Viju History
-http://188.113.190.15/33/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/8BPZ18l.png",Viju Nature
-http://188.113.190.15/28/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/EGIpLPu.png",Viju Explore
-http://188.113.190.15/32/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/IO5jegK.png",ZooПaрк
-http://188.113.190.15/46/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GXSXmN2.png",АВТО 24
-http://sc.id-tv.kz/Avto24.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/sVc8cFt.png",Авто плюс
-http://188.113.190.15/83/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/clWWhB8.png",Бобер
-http://188.113.190.15/131/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/vruuPKF.png",Большая Азия
-http://188.113.190.15/20/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/EOue13e.png",Дикая охота
-https://stream01.vnet.am/Channel_127/mono.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/e3BFVgt.png",Дикая рыбалка
-https://stream01.vnet.am/Channel_126/mono.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/VNirxxn.png",Доктор
-http://188.113.190.15/29/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ISJzQGP.png",Домашние животные
-http://188.113.190.15/72/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/GXJKWdy.png",Глазами Туриста
-http://185.112.140.28:80/Glazami_Turista/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/ZZxzueO.png",Наука
-http://188.113.190.15/96/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/uIiAdBv.png",Моя Планета
-http://188.113.190.15/219/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/PmD17UQ.png",Кто есть кто
-http://188.113.190.15/220/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/aR9AVxo.png",Кухня
-https://stream01.vnet.am/KukhnyaTv/playlist.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/eEjPail.png",История
-http://188.113.190.15/54/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/N1Ze5IE.png",Первый космический
-https://stream01.vnet.am/Evrika/playlist.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/DFw4Ej0.png",Поехали!
-http://188.113.190.15/206/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/qQ6pPPQ.png",Приключения
-https://stream01.vnet.am/PriklyucheniyaHd/playlist.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/nZwBaeW.png",Охота и рыбалка
-http://188.113.190.15/69/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/Bj1jI7F.png",Охотник и рыболов
-http://stream01.vnet.am/Channel_124/mono.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/YGqO3Us.png",Загородный
-https://stream01.vnet.am/DTX/mono.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/RoYd5pz.png",Загородная жизнь
-http://sc.id-tv.kz/Zagorod.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/TZiBQDK.png",Точка Отрыва
-http://188.113.190.15/183/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/eXJm1n3.png",Телепутешествия
-http://31.148.48.15:80/Teleputeshestviya/index.m3u8?token=test
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/1W6R14o.png",Техно 24
-http://188.113.190.15/40/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/O15eGBK.png",Тонус
-https://stream01.vnet.am/ZooTv/playlist.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/o3K1h5Q.png",Успех
-http://146.158.0.56:80/Uspeh/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/onNv1tM.png",Живая Планета
-http://188.113.190.15/89/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌿| Khám phá" tvg-logo="https://i.imgur.com/9lHQPdN.png",Живая Природа
-http://178.212.71.253:8002/play/a00o/index.m3u8
-#EXTINF:-1 ,#Ктокуда
-http://146.158.0.56/MirUvlecheniy/mono.m3u8
+
+
+
 #EXTINF:-1 group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/zmnSoBA.png",Девятая Волна
 http://188.190.222.48:8765/9volna/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/NNmjD9Z.png",Звезда Плюс
@@ -701,8 +646,6 @@ http://91.247.68.229:8000/play/Lapki/index.m3u8
 https://stream01.vnet.am/Bober/mono.m3u8
 #EXTINF:-1 group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/xyztpBf.png",Мужской
 http://188.113.190.15/64/tracks-v1a1/index.m3u8
-#EXTINF:-1 ,#EXTVLCOPT:http-user-agent=ExoPlayer2/2.37
-http://edge02.odtv.az/o3/nostalgiya/playlist.m3u8
 #EXTINF:-1 group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/3ChnWGg.png",НТВ ПРАВО
 http://cdn2.ntv.ru/th_pravo/tracks-v1a1/mono.m3u8
 #EXTINF:-1 group-title="🤣| Giải trí" tvg-logo="https://i.imgur.com/rX6K6qT.png",НТВ Стиль
@@ -719,18 +662,7 @@ http://188.113.190.15/214/tracks-v1a1/index.m3u8
 http://188.113.190.15/117/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="🤣| Giải trí" tvg-logo="https://epgx.site/p/centralnoye-tv.png",Центральное ТВ
 http://188.113.190.15/228/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/CfRvm8i.png",Atameken Business
-http://live.atameken.cdnvideo.ru/atameken/atameken.sdp/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/TTEQfV1.png",Silk Way TV
-https://ikomg-kazakh.akamaized.net/kazakh/kazakh.m3u8
-#EXTINF:-1 group-title="🌏| Đối ngoại/Tin tức quốc tế" tvg-logo="https://i.imgur.com/38UPLa9.png",UA WORLD TV
-http://210.210.155.35/uq2663/h/h101/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/BP7tY6F.png",Беларусь 24
-http://188.113.190.15/213/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/tUF33HD.png",БелРос
-http://live2.mediacdn.ru/sr1/tro/playlist.m3u8
-#EXTINF:-1 group-title="🇷🇺| Nga và Cộng đồng các Quốc gia Độc lập" tvg-logo="https://i.imgur.com/gCmCRfe.png",ЛДПР ТВ
-http://188.113.190.15/211/tracks-v1a1/index.m3u8
+
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/m7IC01U.png",Extreme Sports
 http://188.113.190.15/39/tracks-v1a1/index.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/wYuqDA7.png",Fast&Fun Box
@@ -743,31 +675,3 @@ http://188.113.190.15/34/tracks-v1a1/index.m3u8
 https://stream01.vnet.am/BoksTv/mono.m3u8
 #EXTINF:-1 group-title="⚽| Thể thao" tvg-logo="https://i.imgur.com/nyn6j32.png",Удар
 http://92.53.64.197:5050/udar_hd/video.m3u8?token=m3VIth-Rou_bM1
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/fuuXXSo.png",VOV1
-http://media.kythuatvov.vn:7001/;stream/
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/GDmiZVe.png",VOV2
-http://media.kythuatvov.vn:7003/;stream/
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/p4JOiUC.png",VOV3
-http://media.kythuatvov.vn:7005/;stream/
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/iFbX0ZH.png",Радио Вести FM
-http://icecast.vgtrk.cdnvideo.ru/vestifm
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/Wr2gxLl.png",Радио Маяк
-http://icecast.vgtrk.cdnvideo.ru/mayakfm
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/P0In2kv.png",Радио России
-http://icecast.vgtrk.cdnvideo.ru/rrzonam
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/kgHh8C5.png",Радио Sputnik International
-http://icecast-rian.cdnvideo.ru/voiceenghi
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="http://i.imgur.com/TUKLarg.jpg",Новое Радио
-http://stream.newradio.ru/moscow.novoe.aacp
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/QX43rbX.png",Ретро FM
-http://emgregion.hostingradio.ru:8064/moscow.retrofm.mp3
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/lbqM3K2.png",Радио Шансон
-http://chanson.hostingradio.ru:8041/chanson256.mp3
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/WsPlKJJ.png",Радио Страна FM
-http://icecast.stranafm.cdnvideo.ru/stranafm
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/PlAiIoT.png",Радио Европа Плюс
-https://ep128.hostingradio.ru:8030/ep128
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/SPaSFKm.png",Авторадио
-http://ic7.101.ru:8000/v3_1
-#EXTINF:-1 group-title="📻| Radio" tvg-logo="https://i.imgur.com/ViOHdFW.png",Радио Орфей
-https://orfeyfm.hostingradio.ru:8034/orfeyfm128.mp3
