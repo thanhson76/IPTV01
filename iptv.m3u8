@@ -186,22 +186,16 @@ https://tv.TruyenHinh.Click/CoBan/davincihd/TuyetDoiKhongKinhDoanh
 
 #EXTINF:-1 tvg-id="vinhlong1hd" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong1hd.jpg"",THVL1 - Vĩnh Long 1
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
-
 #EXTINF:-1 tvg-id="vinhlong2hd" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong2hd.jpg" ,THVL2 - Vĩnh Long 2
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
-
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong3hd.jpg" ,THVL3 - Vĩnh Long 3
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
-
 #EXTINF:-1 tvg-id="vinhlong4hd" group-title="Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong4hd.png",THVL4 - Vĩnh Long 4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
-
 #EXTINF:0 tvg-id="laocai" group-title="Địa phương" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai
 https://live.fptplay53.net/fnxsd1/laocai_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:0 tvg-id="yenbai" group-title="Địa phương" tvg-logo="https://i.imgur.com/AELRXuX.png",YTV _ TH Yên Bái
 https://live.fptplay53.net/fnxsd1/yenbai_hls.smil/chunklist_b2500000.m3u8
-
 #EXTINF:0 tvg-id="dienbien" group-title="Địa phương" tvg-logo="https://i.imgur.com/Rky1N5S.png",ĐTV _ TH Điện Biên
 https://live.fptplay53.net/fnxsd1/dienbien_hls.smil/chunklist_b2500000.m3u8
 
