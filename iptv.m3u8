@@ -1,4 +1,4 @@
-#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/epg.xml.gz"
+#EXTM3U url-tvg="https://truyenhinh.click/EPG-VN"
 
 
 #--*.*--VTV--*.*--#
@@ -30,63 +30,63 @@ https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u
 
 #EXTINF:-1 tvg-id="vtvcab1hd" group-title="VTVcab" group-logo="https://teohdtv.github.io/thumbs/Groups/VCTV.png" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV1.png",ON Vie Giải Trí
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh
+https://xem.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab2hd" group-title="VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV2.png",ON Phim Việt
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh
+https://xem.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports (ON PLUS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/vtvcab3hd/TuyetDoiKhongKinhDoanh
+https://xem.TruyenHinh.Click/CoBan/vtvcab3hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV4.png",ON Movies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh
+https://xem.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab5hd" group-title="VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV5.png",ON E Channel
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh
+https://xem.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+ (ON PLUS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/vtvcab6hd/TuyetDoiKhongKinhDoanh
+https://xem.TruyenHinh.Click/CoBan/vtvcab6hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV7.png",ON O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh
+https://xem.TruyenHinh.Click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab8hd" group-title="VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV8.png",ON BiBi
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/vtvcab8hd/TuyetDoiKhongKinhDoanh
+https://xem.TruyenHinh.Click/CoBan/vtvcab8hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab9hd" group-title="VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV9.png",ON Info TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/vtvcab9hd/TuyetDoiKhongKinhDoanh
+https://xem.TruyenHinh.Click/CoBan/vtvcab9hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab10hd" group-title="VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV10.png",ON Cine
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/vtvcab10hd/TuyetDoiKhongKinhDoanh
+https://xem.TruyenHinh.Click/CoBan/vtvcab10hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab12hd" group-title="VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV12.png",ON Style TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/vtvcab12hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab13hd" group-title="VTVcab" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab13hd/KenhCoBan",On Homeshopping
-https://tv.TruyenHinh.Click/CoBan/vtvcab13hd/TuyetDoiKhongKinhDoanh
+https://xem.TruyenHinh.Click/CoBan/vtvcab12hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vtvcab13hd" group-title="VTVcab" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/vtvcab13hd/KenhCoBan",On Homeshopping
+https://xem.TruyenHinh.Click/CoBan/vtvcab13hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab15hd" group-title="VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV15.png",ON Music
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh
+https://xem.TruyenHinh.Click/CoBan/vtvcab15hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab16hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/5145995d-794d-4329-a44b-d8caffdceb40.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" codec="system", ON Football (ON PLUS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://509942876.r.vtvcdn.com/onplus/BONGDA_HD/m30_index.m3u8
 #EXTINF:-1 tvg-id="vtvcab17hd" group-title="VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV17.png",ON Trending TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh
+https://xem.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News (ON PLUS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://tv.TruyenHinh.Click/CoBan/vtvcab18hd/TuyetDoiKhongKinhDoanh
+https://xem.TruyenHinh.Click/CoBan/vtvcab18hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/DRAMAS.png",ON Vie DRAMAS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh
+https://xem.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh
 #EXTINF:-1 tvg-id="vtvcab20hd" group-title="VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VFAMILY.png",ON VFamily
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://tv.TruyenHinh.Click/CoBan/vtvcab20hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab21hd/KenhCoBan",Cartoon Kids
-https://tv.TruyenHinh.Click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab22hd/KenhCoBan",Life TV
-https://tv.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/vtvcab23hd/KenhCoBan",Golf Channel
-https://tv.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh
+https://xem.TruyenHinh.Click/CoBan/vtvcab20hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vtvcab21hd" group-title="VTVcab" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/vtvcab21hd/KenhCoBan",Cartoon Kids
+https://xem.TruyenHinh.Click/CoBan/vtvcab21hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vtvcab22hd" group-title="VTVcab" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/vtvcab22hd/KenhCoBan",Life TV
+https://xem.TruyenHinh.Click/CoBan/vtvcab22hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="vtvcab23hd" group-title="VTVcab" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/vtvcab23hd/KenhCoBan",Golf Channel
+https://xem.TruyenHinh.Click/CoBan/vtvcab23hd/TuyetDoiKhongKinhDoanh
 
 #--*.*--HTV--*.*--#
 
@@ -186,49 +186,49 @@ http://125.227.210.55:8153/VideoInput/play.ts
 #EXTINF:-1 tvg-id="hbohd" group-title="In The Box" group-logo="https://cdn.hqth.me/logo/category/hbo.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png", Cinemax
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://stream1.freetv.fun/cinemax-7.ts
-#EXTINF:-1 tvg-id="boxhits" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/boxhits/KenhCoBan",Box Hits
-https://tv.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="boxmovie1hd" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/boxmovie1hd/KenhCoBan",Box Movie 1
-https://tv.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="hollywoodclassichd" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/hollywoodclassichd/KenhCoBan",Hollywood Classic
-https://tv.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="inthebox" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/inthebox/KenhCoBan",In The Box
-https://tv.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="happykidshd" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/happykidshd/KenhCoBan",Happy Kids
-https://tv.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="womanhd" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/womanhd/KenhCoBan",Woman
-https://tv.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="man" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/man/KenhCoBan",Man
-https://tv.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/planetearthhd/KenhCoBan",Planet Earth
-https://tv.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/drfithd/KenhCoBan",Dr Fit
-https://tv.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="musicbox" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/musicbox/KenhCoBan",Music box
-https://tv.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="outdoorhd" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/outdoorhd/KenhCoBan",Outdoor
-https://tv.TruyenHinh.Click/CoBan/outdoorhd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="channelnewsasia" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/channelnewsasia/KenhCoBan",Channel News Asia
-https://tv.TruyenHinh.Click/CoBan/channelnewsasia/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="afnhd" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/afnhd/KenhCoBan",AFN
-https://tv.TruyenHinh.Click/CoBan/afnhd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="hgtv" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/hgtv/KenhCoBan",HGTV
-https://tv.TruyenHinh.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="kbsworld" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/kbsworld/KenhCoBan",KBS World
-https://tv.TruyenHinh.Click/CoBan/kbsworld/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="nhk" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/nhk/KenhCoBan",NHK
-https://tv.TruyenHinh.Click/CoBan/nhk/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="france24" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/france24/KenhCoBan",France 24
-https://tv.TruyenHinh.Click/CoBan/france24/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="cnbcsd" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/cnbcsd/KenhCoBan",CNBC SD
-https://tv.TruyenHinh.Click/CoBan/cnbcsd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="historyhd" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/historyhd/KenhCoBan",History
-https://tv.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="arirang" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/arirang/KenhCoBan",Arirang
-https://tv.TruyenHinh.Click/CoBan/arirang/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="davincihd" group-title="In The Box" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/davincihd/KenhCoBan",DaVinci
-https://tv.TruyenHinh.Click/CoBan/davincihd/TuyetDoiKhongKinhDoanh
-#EXTINF:-1 tvg-id="BNCNow" group-title="Kênh thiết yếu" group-logo="https://tv.truyenhinh.click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://tv.truyenhinh.click/Logo/BNCNow/KenhBoSung",BNC Now
+#EXTINF:-1 tvg-id="boxhits" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/boxhits/KenhCoBan",Box Hits
+https://xem.TruyenHinh.Click/CoBan/boxhits/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="boxmovie1hd" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/boxmovie1hd/KenhCoBan",Box Movie 1
+https://xem.TruyenHinh.Click/CoBan/boxmovie1hd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="hollywoodclassichd" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/hollywoodclassichd/KenhCoBan",Hollywood Classic
+https://xem.TruyenHinh.Click/CoBan/hollywoodclassichd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="inthebox" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/inthebox/KenhCoBan",In The Box
+https://xem.TruyenHinh.Click/CoBan/inthebox/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="happykidshd" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/happykidshd/KenhCoBan",Happy Kids
+https://xem.TruyenHinh.Click/CoBan/happykidshd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="womanhd" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/womanhd/KenhCoBan",Woman
+https://xem.TruyenHinh.Click/CoBan/womanhd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="man" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/man/KenhCoBan",Man
+https://xem.TruyenHinh.Click/CoBan/man/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="planetearthhd" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/planetearthhd/KenhCoBan",Planet Earth
+https://xem.TruyenHinh.Click/CoBan/planetearthhd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="drfithd" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/drfithd/KenhCoBan",Dr Fit
+https://xem.TruyenHinh.Click/CoBan/drfithd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="musicbox" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/musicbox/KenhCoBan",Music box
+https://xem.TruyenHinh.Click/CoBan/musicbox/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="outdoorhd" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/outdoorhd/KenhCoBan",Outdoor
+https://xem.TruyenHinh.Click/CoBan/outdoorhd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="channelnewsasia" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/channelnewsasia/KenhCoBan",Channel News Asia
+https://xem.TruyenHinh.Click/CoBan/channelnewsasia/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="afnhd" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/afnhd/KenhCoBan",AFN
+https://xem.TruyenHinh.Click/CoBan/afnhd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="hgtv" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/hgtv/KenhCoBan",HGTV
+https://xem.TruyenHinh.Click/CoBan/hgtv/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="kbsworld" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/kbsworld/KenhCoBan",KBS World
+https://xem.TruyenHinh.Click/CoBan/kbsworld/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="nhk" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/nhk/KenhCoBan",NHK
+https://xem.TruyenHinh.Click/CoBan/nhk/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="france24" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/france24/KenhCoBan",France 24
+https://xem.TruyenHinh.Click/CoBan/france24/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="cnbcsd" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/cnbcsd/KenhCoBan",CNBC SD
+https://xem.TruyenHinh.Click/CoBan/cnbcsd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="historyhd" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/historyhd/KenhCoBan",History
+https://xem.TruyenHinh.Click/CoBan/historyhd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="arirang" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/arirang/KenhCoBan",Arirang
+https://xem.TruyenHinh.Click/CoBan/arirang/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="davincihd" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/davincihd/KenhCoBan",DaVinci
+https://xem.TruyenHinh.Click/CoBan/davincihd/TuyetDoiKhongKinhDoanh
+#EXTINF:-1 tvg-id="BNCNow" group-title="Kênh thiết yếu" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/BNCNow/KenhBoSung",BNC Now
 
 
 #--*.*--ĐỊA PHƯƠNG--*.*--#
