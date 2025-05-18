@@ -35,7 +35,7 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab1hd/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.TruyenHinh.Click/CoBan/vtvcab2hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab3hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/f53c0d1b-0268-4d1e-b150-7d797354b925.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab3-on-sports/${start}/${offset}", ON Sports (ON PLUS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://freem3u.xyz/api/live/play.m3u8?oid=onsports
+https://xem.TruyenHinh.Click/BoSung/vtvcab3hd/TruyenHinh.Click
 #EXTINF:-1 tvg-id="vtvcab4hd" group-title="VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV4.png",ON Movies
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xem.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh.m3u8
@@ -44,7 +44,7 @@ https://xem.TruyenHinh.Click/CoBan/vtvcab4hd/TuyetDoiKhongKinhDoanh.m3u8
 https://xem.TruyenHinh.Click/CoBan/vtvcab5hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab6hd" group-title="VTVcab" tvg-logo="https://i.imgur.com/UNxM1Hs.jpg" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab6-on-sport-plus/${start}/${offset}", ON Sports+ (ON PLUS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.TruyenHinh.Click/CoBan/vtvcab6hd/TuyetDoiKhongKinhDoanh.m3u8
+https://xem.TruyenHinh.Click/BoSung/vtvcab6hd/TruyenHinh.Click
 #EXTINF:-1 tvg-id="vtvcab7hd" group-title="VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/VCTV7.png",ON O2TV
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xem.TruyenHinh.Click/CoBan/vtvcab7hd/TuyetDoiKhongKinhDoanh.m3u8
@@ -73,7 +73,7 @@ https://509942876.r.vtvcdn.com/onplus/BONGDA_HD/m30_index.m3u8
 https://xem.TruyenHinh.Click/CoBan/vtvcab17hd/TuyetDoiKhongKinhDoanh.m3u8
 #EXTINF:-1 tvg-id="vtvcab18hd" group-title="VTVcab" tvg-logo="https://imgvlive.vtvcab.vn/720X405/60237478-0dc1-4480-a050-b2a84e4b9b69.jpg?auto=format&fit=max&w=640" catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/vtvcab18-on-sports-news/${start}/${offset}", ON Sports News (ON PLUS)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://xem.TruyenHinh.Click/CoBan/vtvcab18hd/TuyetDoiKhongKinhDoanh.m3u8
+https://xem.TruyenHinh.Click/BoSung/vtvcab18hd/TruyenHinh.Click
 #EXTINF:-1 tvg-id="vtvcab19hd" group-title="VTVcab" tvg-logo="https://teohdtv.github.io/thumbs/VCTV/DRAMAS.png",ON Vie DRAMAS
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://xem.TruyenHinh.Click/CoBan/vtvcab19hd/TuyetDoiKhongKinhDoanh.m3u8
@@ -161,82 +161,83 @@ https://sctv.locket.website/kplus.m3u8?channel=kkids
 
 #EXTINF:-1 tvg-id="SCTV1" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/1_cc823220.jpg",SCTV1 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv1 
+https://sctv.locket.website/sctvonline.m3u8?protected=RBdktgRdx70BEwwtyqTgJOL6bKj8gfj7QyGoGwcROsg2GuRxAnA9meDY53cmoNkZdiGYv3hkegp%2FPJpPpD45PQ%3D%3D&channel=sctv1&tvfree=true
 
 #EXTINF:-1 tvg-id="SCTV2" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/2_fd5dc799.jpg",SCTV2 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv2 
+https://sctv.locket.website/sctvonline.m3u8?protected=O%2Foos8ZaD5oeWlwzrs7uRu4ZYFfH2HD8TQWYQYlBE%2BelymtWGQu0P9whc9cxKeZL019yb3RexJWO%2FX%2BpNlkE7g%3D%3D&channel=sctv2&tvfree=true
 
 #EXTINF:-1 tvg-id="SCTV3" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/3_efafd3ec.jpg",SCTV3 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv3 
+https://sctv.locket.website/sctvonline.m3u8?protected=OBx%2FY%2FDG%2BmAoEngqv%2BnV5yKu4WW%2BMut9TENIF%2BcrnKg1yMXXB6KXiaRV0WDHNbS4uYAleFCqGMQHoabeMi52uQ%3D%3D&channel=sctv3&tvfree=true 
 
 #EXTINF:-1 tvg-id="SCTV4" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/4_23b344ec.jpg",SCTV4 
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 https://sctv.locket.website/sctvonline.m3u8?channel=sctv4 
+#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
+https://sctv.locket.website/sctvonline.m3u8?protected=THEr59lnhrKYAap5X%2F6OzkB0g0NFGhsj5WoHci5arUQpeZPHCPMvnrjKtmjJgBr4TkqnSe2X45KkWhSCFGt9Tw%3D%3D&channel=sctv4&tvfree=true 
 
 #EXTINF:-1 tvg-id="SCTV5" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/5_4efd92d7.jpg",SCTV5 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv5 
+https://sctv.locket.website/sctvonline.m3u8?protected=UdG%2BeGJjOE8uZ7lwuWsSOAblTPb8wvTH49qsvOtJ9MCFAiolW6mHDnoB2kFYh4ZPOheH7XVCICmTHPkxP9wryg%3D%3D&channel=sctv5&tvfree=true 
 
 #EXTINF:-1 tvg-id="SCTV6" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/6_132935f2.jpg",SCTV6 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv6 
+https://sctv.locket.website/sctvonline.m3u8?protected=NoWYGY19Ux1xv6YgCIFwP0oqUNkKtriWUCjlbX0bVS5pB%2B7W2PMfsD%2FpaRJdOLCXwjmZi%2BdOmJFKbKCkoPTEcA%3D%3D&channel=sctv6&tvfree=true 
 
 #EXTINF:-1 tvg-id="SCTV7" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/7_15259bbf.jpg",SCTV7 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv7 
+https://sctv.locket.website/sctvonline.m3u8?protected=aaPWLyx%2BZtUZ0UL1p1KFUzBl1yzDKCMhAWWeu%2BaGqUGn7QifqUcm778HuNkO18bJzC6Fe5sX%2FhjqWU0b4JM%2Fng%3D%3D&channel=sctv7&tvfree=true 
 
 #EXTINF:-1 tvg-id="SCTV8" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/8_efcc1082.jpg",SCTV8 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv8 
+https://sctv.locket.website/sctvonline.m3u8?protected=v8eh4CV7CCFmRp9CP13XmEBGNXYSjBtzDIMkZNo8ozenG9%2B5FWQXy8Dzav1RzZ6rMw5q2Yo1%2BNPODSscHjPvdQ%3D%3D&channel=sctv8&tvfree=true
 
 #EXTINF:-1 tvg-id="SCTV9" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/9_2e957ae2.jpg",SCTV9 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv9 
+https://sctv.locket.website/sctvonline.m3u8?protected=Hhs4OyqyhugbTr8mOv3L5cRtqzAAh13M%2B7rD%2FeTNL0RgkLDKNkq75NwmZOieZZHF4htHyF7AeCpsks7teekAaQ%3D%3D&channel=sctv9&tvfree=true 
 
 #EXTINF:-1 tvg-id="SCTV10" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/10_dd39c053.jpg",SCTV10 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv10 
+https://sctv.locket.website/sctvonline.m3u8?protected=H5kC5YWhLpUTALcsCDD%2F4198PwUnYa5COhY%2Bit12ftwHDiBCk%2FwL2vdon8ElcHBi183ZeMnRUS541LC40zA73Q%3D%3D&channel=sctv10&tvfree=true 
 
 #EXTINF:-1 tvg-id="SCTV11" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/11_18513b6b.jpg",SCTV11 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv11 
+https://sctv.locket.website/sctvonline.m3u8?protected=OyE%2BL%2BvhI3RH4nacQC3%2B2GyeivJcNJpdBG7cAMiIL9ElPxk%2FNeB0vxTLsWIF%2FOfhFKEzqdmouxInry2lms6xrw%3D%3D&channel=sctv11&tvfree=true 
 
 #EXTINF:-1 tvg-id="SCTV12" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/12_c58b7453.jpg",SCTV12 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv12 
+https://sctv.locket.website/sctvonline.m3u8?protected=pJDoK2RkiF4PhOAQJLlZdL%2B%2FFJcOXfV1seRefKNWM4RFj48xWA8zfzhqbje5ndWhMjEEO2q1a%2BzDzgnTFK6hOQ%3D%3D&channel=sctv12&tvfree=true 
 
 #EXTINF:-1 tvg-id="SCTV13" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/13_29828548.jpg",SCTV13 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv13 
+https://sctv.locket.website/sctvonline.m3u8?protected=L0lI3HCrVJqKRaCkkjfL14S6%2FlZbfJ5KwcDVbfQXYavThSEwqjsiVFP%2FoTTTrK1gGmgUcZ2vGZu4NhKuAKjONA%3D%3D&channel=sctv13&tvfree=true 
 
 #EXTINF:-1 tvg-id="SCTV14" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/14_614545db.jpg",SCTV14 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv14 
+https://sctv.locket.website/sctvonline.m3u8?protected=qhQn0OY%2FFwHtyhuR8B960ag8IDvOsGh7yFCIG5KhY8oShiTAJhXM2VUMA3n7wOsXXMiRp%2BpL26jpI4GuBtOXxQ%3D%3D&channel=sctv14&tvfree=true 
 
 #EXTINF:-1 tvg-id="SCTV16" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/16_47eb3436.jpg",SCTV16 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv16 
+https://sctv.locket.website/sctvonline.m3u8?protected=VX1CzJFbpKsxXbpEuTyzEm6mjxJekWfgX17Xz1ziAzlLuI4W2Em5iRQ1FWR6XCZ%2BnBjz6DsxzgANbIjNl3sPSQ%3D%3D&channel=sctv16&tvfree=true 
 
 #EXTINF:-1 tvg-id="SCTV18" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/18_664a253b.jpg",SCTV18 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv18 
+https://sctv.locket.website/sctvonline.m3u8?protected=vKVm%2FziY9uZ8f04KVJRoMziGaDK3DKcqbjHUaYzk4LjctlzHwrYXBrja9NIJXuDJD1h66G03K28TcHqCOB5IqQ%3D%3D&channel=sctv18&tvfree=true
 
 #EXTINF:-1 tvg-id="SCTV19" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/19_3b86f52a.jpg",SCTV19 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv19 
+https://sctv.locket.website/sctvonline.m3u8?protected=SvkhW0iLPu7a0Tcx004PeozxSUXFY0QImhfMclzK8rIpJ8H4Or6lUgxuNozrahp62l9zHj6bOk7jUT%2BZHtfOrg%3D%3D&channel=sctv19&tvfree=true 
 
 #EXTINF:-1 tvg-id="SCTV20" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/20_6c70556d.jpg",SCTV20 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv20 
+https://sctv.locket.website/sctvonline.m3u8?protected=onz3bmrhjgg8WyRUdumSU7ak9vWRCG0uUwbYurX8P%2FT2PRCy94QXMTdLF3dbYBBTYYZ4%2FPbEn7ZkvtTF46G1Yw%3D%3D&channel=sctv20&tvfree=true 
 
 #EXTINF:-1 tvg-id="SCTV21" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/21_8f6788be.jpg",SCTV21 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctv21 
+https://sctv.locket.website/sctvonline.m3u8?protected=oxuAMFThqJA0eDokw2kn%2BcWGPtONzskiqO0P6yeZnB4U5Of0ZwtzA2WJdC0sbExS2huwdR5xx35UArsLGHHnKA%3D%3D&channel=sctv21&tvfree=true 
 
 #EXTINF:-1 tvg-id="SCTVPHIM" group-title="SCTV" group-logo="https://sctvonline.vn/static/media/smaller-sctv-logo.4dd61dad2436b9a72f90.png" tvg-logo="https://imaginary.endpoint.cdn.sctvonline.vn/tenants/none_tenant/photos/82_51400b18.jpg",SCTVPHIM 
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.13.3 
-https://sctv.locket.website/sctvonline.m3u8?channel=sctvphim
+https://sctv.locket.website/sctvonline.m3u8?protected=M9s2UM8Nq3sEUaofD5Ewc%2FcFDOHjrjALkmR6%2B0d9RYEDgKGfP52tv7HFluzziZ5eGPkeWVJJwQegOYq0QPSoVQ%3D%3D&channel=sctv&tvfree=true
 
 
 #--*.*--In The Box--*.*--#
@@ -249,7 +250,7 @@ https://cdn2.skygo.mn/live/disk1/Boomerang/HLS-FTA/Boomerang.m3u8
 #EXTINF:-1 tvg-id="Cinemax" group-title="In The Box" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",Cinemax 
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
 #EXTVLCOPT:http-referrer=https://deptraivkl.com/ 
-https://sctv.locket.website/kplus.m3u8?channel=cinemax 
+https://sctv.locket.website/kplus.m3u8?protected=Cs%2Bz2UfMqFrXweB7YTY%2BKhh7s2rPesPZ3JsZN4HRCgzgsgnUaoQxEiGG7zb0ZRDqmyVuLz3CK955EQLIdDwhgg%3D%3D&channel=cinemax 
 
 #EXTINF:-1 tvg-id="HBO" group-title="In The Box" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1710918372/cmc_new/img.live_channel/0/0/0/0/263.jpg",HBO 
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
