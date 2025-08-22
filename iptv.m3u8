@@ -109,10 +109,10 @@ https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 #EXTINF:-1 tvg-id="htvcthuanviet" group-title="HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/thuan_viet.png",HTVC Thuần Việt
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=13
 #EXTINF:-1 tvg-id="htvcplushd" group-title="HTV" tvg-logo="https://teohdtv.github.io/thumbs/HTV/htvc_plus.png",HTVC+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=132
 
 
 #--*.*--SCTV--*.*--#
@@ -137,7 +137,7 @@ http://125hvt.ddns.net:21585/hbo/tracks-v1a1/mono.m3u8
 
 #EXTINF:-1 tvg-id="AXN" group-title="In The Box" group-logo="https://truyenhinhkplusvn.com/wp-content/uploads/2024/10/Logo-K-Moi-vuong.png" tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1717940065/cmc_new/img.live_channel/0/0/0/0/172.jpg",AXN 
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
-http://125hvt.ddns.net:21585/axn/tracks-v1a1/mono.m3u
+https://tth.vn/Khichtv-live-axn-hd-okhich.m3u8
 
 #EXTINF:-1 tvg-id="boxhits" group-title="In The Box" group-logo="https://xem.TruyenHinh.Click/HoiQuanLogo/Images/HinhNhom.png" tvg-logo="https://xem.TruyenHinh.Click/Logo/boxhits/KenhCoBan",Box Hits
 https://freem3u.xyz/api/live/play.m3u8?vid=239
