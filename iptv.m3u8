@@ -93,19 +93,25 @@ https://freem3u.xyz/api/live/play.m3u8?vid=13
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
 https://freem3u.xyz/api/live/play.m3u8?vid=132
 
+#EXTINF:-1 group-title="💖| HA NOI" tvg-logo="https://i.postimg.cc/7ZLHXSyv/hanoi1.png",HANOI1
+https://freem3u.xyz/api/live/play.m3u8?vid=33
+#EXTINF:-1 group-title="💖| HA NOI" tvg-logo="https://i.postimg.cc/tJXQJHq0/hanoi2.png",HANOI2
+https://freem3u.xyz/api/live/play.m3u8?vid=34
+#EXTINF:-1 group-title="💖| HA NOI" tvg-logo="https://i.postimg.cc/8Pz3F4S6/qpvn.png",QPVN
+https://freem3u.xyz/api/live/play.m3u8?vid=19
+#EXTINF:-1 group-title="💖| HA NOI" tvg-logo="https://i.postimg.cc/PqYFGFmB/ANTV.jpg",ANTV
+https://freem3u.xyz/api/live/play.m3u8?vid=20
+
 
 #--*.*--SCTV--*.*--#
-
  
- #EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.ibb.co/tQHw5fW/khichtivi-logo-sctv2.png" , SCTV2 
- https://freem3u.xyz/api/live/play.m3u8?vid=201 
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.ibb.co/tQHw5fW/khichtivi-logo-sctv2.png" , SCTV2 
+https://freem3u.xyz/api/live/play.m3u8?vid=201 
   
- #EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.ibb.co/PjjDcyf/sctv6-khichtivi-logo.png",SCTV6 
- https://freem3u.xyz/api/live/play.m3u8?vid=232
- 
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.ibb.co/PjjDcyf/sctv6-khichtivi-logo.png",SCTV6 
+https://freem3u.xyz/api/live/play.m3u8?vid=232
 
 #--*.*--In The Box--*.*--#
-
 
 #EXTINF:-1 tvg-id="HBO" group-title="🎬| In The Box"  tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1710918372/cmc_new/img.live_channel/0/0/0/0/263.jpg",HBO 
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
