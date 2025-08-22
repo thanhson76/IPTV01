@@ -150,7 +150,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=135
 https://freem3u.xyz/api/live/play.m3u8?vid=162
 
 #EXTINF:-1 tvg-id="outdoorhd" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/155yBDpG/Outdoor-Channel.webp",Outdoor
-http://125hvt.ddns.net:21585/outdoor/tracks-v1a1/mono.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=216
 
 #EXTINF:-1 tvg-id="afnhd" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/ZRc1vDs1/images.jpg",AFN
 https://freem3u.xyz/api/live/play.m3u8?vid=215
