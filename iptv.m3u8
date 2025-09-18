@@ -59,6 +59,16 @@ https://freem3u.xyz/api/live/play.m3u8?vid=179
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf
 https://freem3u.xyz/api/live/play.m3u8?vid=169
+#EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.postimg.cc/mgGjjVV6/On-Sport-10-08.png",ON SPORT
+https://freem3u.xyz/api/live/play.m3u8?oid=onsports
+#EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.postimg.cc/Y0sVjgHB/On-Sport-Plus.png",ON SPORT+
+https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
+#EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.postimg.cc/Dz7K9rfx/b78b7-ponfootballhd-channel-unkn.webp",ON FOOTBALL
+https://i.postimg.cc/Dz7K9rfx/b78b7-ponfootballhd-channel-unkn.webp
+#EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.postimg.cc/nLLQHQ01/On-Sport-new.png",ON SPORT new
+https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
+#EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.postimg.cc/zXtrsbHN/On-Sports-29-logo-2021.webp",ON SPORT TV
+https://freem3u.xyz/api/live/play.m3u8?oid=vothuatvn
 
 #--*.*--HTV--*.*--#
 
@@ -104,12 +114,29 @@ https://freem3u.xyz/api/live/play.m3u8?vid=20
 
 
 #--*.*--SCTV--*.*--#
- 
+
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/hPTSdPXR/SCTV1.webp" , SCTV1 
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
+
 #EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.ibb.co/tQHw5fW/khichtivi-logo-sctv2.png" , SCTV2 
 https://freem3u.xyz/api/live/play.m3u8?vid=201 
-  
+
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/0QDtC3Dj/SCTV3.webp" , SCTV3
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
+ 
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/1thB4H2Q/SCTV4.webp" , SCTV4
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
+
 #EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.ibb.co/PjjDcyf/sctv6-khichtivi-logo.png",SCTV6 
 https://freem3u.xyz/api/live/play.m3u8?vid=232
+
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/wv2NHQdF/SCTV7-logo.webp",SCTV7 
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv7
+
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/L5hJSdD6/SCTV8-logo-2019.webp",SCTV8 
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv8
+
+
 
 #--*.*--In The Box--*.*--#
 
