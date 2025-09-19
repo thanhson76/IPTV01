@@ -119,7 +119,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=20
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.ibb.co/tQHw5fW/khichtivi-logo-sctv2.png" , SCTV2 
-https://freem3u.xyz/api/live/play.m3u8?vid=201 
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv2 
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/0QDtC3Dj/SCTV3.webp" , SCTV3
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
