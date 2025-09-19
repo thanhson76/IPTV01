@@ -136,7 +136,23 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv7
 #EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/L5hJSdD6/SCTV8-logo-2019.webp",SCTV8 
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv8
 
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/fLHYWzQ6/SCTV10-logo-2010.webp",SCTV10 
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv10
 
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/BZHFtffL/SCTV11-logo-2022.webp",SCTV11 
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv11
+
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/3J3kRyZV/SCTV12-logo-b-n-2.webp",SCTV12
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv12
+
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/Bb4nXy2H/SCTV13-logo-2017.webp",SCTV13
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv13
+
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/8PkCG2pV/SCTV14.webp",SCTV14
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv14
+
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/tg6qDy5F/SCTV18.webp",SCTV18
+https://freem3u.xyz/api/live/play.m3u8?tid=sctv18
 
 #--*.*--In The Box--*.*--#
 
