@@ -103,7 +103,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=13
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
 https://freem3u.xyz/api/live/play.m3u8?vid=132
 
-#EXTINF:-1 group-title="💖| HA NOI" tvg-logo="https://i.postimg.cc/7ZLHXSyv/hanoi1.png",HANOI1
+#EXTINF:-1 group-title="💖| HA NOI" tvg-logo="https://i.postimg.cc/m2XR3hQP/hn1.png",HANOI1
 https://freem3u.xyz/api/live/play.m3u8?vid=33
 #EXTINF:-1 group-title="💖| HA NOI" tvg-logo="https://i.postimg.cc/tJXQJHq0/hanoi2.png",HANOI2
 https://freem3u.xyz/api/live/play.m3u8?vid=34
@@ -118,7 +118,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=20
 #EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/hPTSdPXR/SCTV1.webp" , SCTV1 
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv1
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.ibb.co/tQHw5fW/khichtivi-logo-sctv2.png" , SCTV2 
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/VLB0z9Q3/SCTV2-logo-2021.png" , SCTV2 
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv2 
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/0QDtC3Dj/SCTV3.webp" , SCTV3
@@ -127,7 +127,7 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv3
 #EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/1thB4H2Q/SCTV4.webp" , SCTV4
 https://freem3u.xyz/api/live/play.m3u8?tid=sctv4
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.ibb.co/PjjDcyf/sctv6-khichtivi-logo.png",SCTV6 
+#EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/c1frc7Hr/SCTV6-2017.webp",SCTV6 
 https://freem3u.xyz/api/live/play.m3u8?vid=232
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="💚SCTV" tvg-logo="https://i.postimg.cc/wv2NHQdF/SCTV7-logo.webp",SCTV7 
@@ -156,11 +156,11 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv18
 
 #--*.*--In The Box--*.*--#
 
-#EXTINF:-1 tvg-id="HBO" group-title="🎬| In The Box"  tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1710918372/cmc_new/img.live_channel/0/0/0/0/263.jpg",HBO 
+#EXTINF:-1 tvg-id="HBO" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/fT05CrdY/HBO-logo-svg.png",HBO 
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
 http://125hvt.ddns.net:21585/hbo/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="AXN" group-title="🎬| In The Box"  tvg-logo="https://106b9c59d.vws.vegacdn.vn/rBN9EfEEFSyoELIQDjEu/408x230x1717940065/cmc_new/img.live_channel/0/0/0/0/172.jpg",AXN 
+#EXTINF:-1 tvg-id="AXN" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/PrkK6MQc/AXN.png",AXN 
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
 https://tth.vn/Khichtv-live-axn-hd-okhich.m3u8
 
@@ -207,16 +207,16 @@ https://freem3u.xyz/api/live/play.m3u8?vid=214
 
 #--*.*--ĐỊA PHƯƠNG--*.*--#
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="🌏|Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong1hd.jpg"",THVL1 - Vĩnh Long 1
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="🌏|Địa phương" tvg-logo="https://i.postimg.cc/BQMDx5Y2/442964-THVL-1-HD-460x260.png",THVL1 - Vĩnh Long 1
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="🌏|Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong2hd.jpg" ,THVL2 - Vĩnh Long 2
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="🌏|Địa phương" tvg-logo="https://i.postimg.cc/RF5nMghx/968605-THVL-2-HD-460x260.png" ,THVL2 - Vĩnh Long 2
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🌏|Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong3hd.jpg" ,THVL3 - Vĩnh Long 3
+#EXTINF:-1 tvg-id="vinhlong3hd" group-title="🌏|Địa phương" tvg-logo="https://i.postimg.cc/hvG4gmLq/THVL3-logo.webp" ,THVL3 - Vĩnh Long 3
 https://live.fptplay53.net/epzhd2/vinhlong3_vhls.smil/chunklist_b5000000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🌏|Địa phương" tvg-logo="https://img.lichphatsong.xyz/logo/vinhlong4hd.png",THVL4 - Vĩnh Long 4
+#EXTINF:-1 tvg-id="vinhlong4hd" group-title="🌏|Địa phương" tvg-logo="https://i.postimg.cc/Rh3rXL1q/THVL4-logo-2020-nay.webp",THVL4 - Vĩnh Long 4
 https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:0 tvg-id="laocai" group-title="🌏|Địa phương" tvg-logo="https://i.imgur.com/QAVSUBu.png",THLC _ TH Lào Cai
