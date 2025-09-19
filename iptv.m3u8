@@ -173,6 +173,13 @@ https://freem3u.xyz/api/live/play.m3u8?vid=159
 #EXTINF:-1 tvg-id="inthebox" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/ZqLYbjmM/box.png",In The Box
 https://freem3u.xyz/api/live/play.m3u8?vid=235
 
+#EXTINF:-1 tvg-id="inthebox" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/W3mRK1xc/KIX-tr3-Fc-2014.webp",KIX
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
+
+#EXTINF:-1 tvg-id="inthebox" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/HskGZH2F/Tvb-logo-svg.png",TVBvietnam
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
+
+
 #EXTINF:-1 tvg-id="hollywoodclassichd" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/KcC1sq8P/Hollywood-Classics-logo.webp",Hollywood Classic
 https://freem3u.xyz/api/live/play.m3u8?vid=160
 
