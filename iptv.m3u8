@@ -207,10 +207,10 @@ https://freem3u.xyz/api/live/play.m3u8?vid=214
 
 #--*.*--ĐỊA PHƯƠNG--*.*--#
 
-#EXTINF:-1 tvg-id="vinhlong1hd" group-title="🌏|Địa phương" tvg-logo="https://i.postimg.cc/BQMDx5Y2/442964-THVL-1-HD-460x260.png",THVL1 - Vĩnh Long 1
+#EXTINF:-1 tvg-id="vinhlong1hd" group-title="🌏|Địa phương" tvg-logo="https://i.postimg.cc/sxFFHZTc/THVL1-HD-17-03-2016.webp",THVL1 - Vĩnh Long 1
 https://live.fptplay53.net/epzch2/vinhlong1_abr.smil/chunklist_b4200000.m3u8
 
-#EXTINF:-1 tvg-id="vinhlong2hd" group-title="🌏|Địa phương" tvg-logo="https://i.postimg.cc/RF5nMghx/968605-THVL-2-HD-460x260.png" ,THVL2 - Vĩnh Long 2
+#EXTINF:-1 tvg-id="vinhlong2hd" group-title="🌏|Địa phương" tvg-logo="https://i.postimg.cc/VL8Qjnrs/THVL2-HD-2016.webp" ,THVL2 - Vĩnh Long 2
 https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="vinhlong3hd" group-title="🌏|Địa phương" tvg-logo="https://i.postimg.cc/hvG4gmLq/THVL3-logo.webp" ,THVL3 - Vĩnh Long 3
