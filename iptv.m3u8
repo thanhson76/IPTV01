@@ -158,31 +158,51 @@ https://freem3u.xyz/api/live/play.m3u8?tid=sctv18
 #--*.*--In The Box--*.*--#
 
 #EXTINF:-1 tvg-id="HBO" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/fT05CrdY/HBO-logo-svg.png",HBO 
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
-http://125hvt.ddns.net:21585/hbo/tracks-v1a1/mono.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="AXN" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/PrkK6MQc/AXN.png",AXN 
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 11) 
-https://tth.vn/Khichtv-live-axn-hd-okhich.m3u8
+catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9d29f87efdec3c9fab368f724a62ad0e:6f1c09c035eab36323d60d1454db3d20
+https://s7771.cdn.mytvnet.vn/pkg20/live_dzones/axn.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="boxhits" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/tCgxLZ3b/boxhit.jpg",Box Hits
-https://freem3u.xyz/api/live/play.m3u8?vid=239
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 
 #EXTINF:-1 tvg-id="boxmovie1hd" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/3J6dVLrj/boxmovie.webp",Box Movie 1
-https://freem3u.xyz/api/live/play.m3u8?vid=159
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
+
 
 #EXTINF:-1 tvg-id="inthebox" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/ZqLYbjmM/box.png",In The Box
 https://freem3u.xyz/api/live/play.m3u8?vid=235
 
-#EXTINF:-1 tvg-id="inthebox" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/W3mRK1xc/KIX-tr3-Fc-2014.webp",KIX
-https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 tvg-id="inthebox" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/W3mRK1xc/KIX-tr3-Fc-2014.webp",KIX catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="inthebox" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/HskGZH2F/Tvb-logo-svg.png",TVBvietnam
-https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
-
+https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
 
 #EXTINF:-1 tvg-id="hollywoodclassichd" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/KcC1sq8P/Hollywood-Classics-logo.webp",Hollywood Classic
-https://freem3u.xyz/api/live/play.m3u8?vid=160
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="happykidshd" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/8P8Cb7Zw/Happy-Kids-logo-Gi-ng-sinh-2018.webp",Happy Kids
@@ -192,7 +212,11 @@ https://freem3u.xyz/api/live/play.m3u8?vid=212
 https://freem3u.xyz/api/live/play.m3u8?vid=163
 
 #EXTINF:-1 tvg-id="man" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/jjycLw39/MAN.png",Man
-https://freem3u.xyz/api/live/play.m3u8?vid=237
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2942ed303e0d40c9b99c94c587bbf509:96cda24109734fb7920d799d58d1a9ae
+https://livevlisctcdnw.seenow.vn/mean/WO/manifest.mpd
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/25JqR2xN/Planet-Earth-logo.webp",Planet Earth
 https://freem3u.xyz/api/live/play.m3u8?vid=135
@@ -201,16 +225,22 @@ https://freem3u.xyz/api/live/play.m3u8?vid=135
 https://freem3u.xyz/api/live/play.m3u8?vid=162
 
 #EXTINF:-1 tvg-id="outdoorhd" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/155yBDpG/Outdoor-Channel.webp",Outdoor
-https://freem3u.xyz/api/live/play.m3u8?vid=216
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/06/03/22/1717427367441/869de47c9504_640_360.png", History HD
+https://sgclient.duckdns.org/source/tv360.m3u8?id=9856
 
 #EXTINF:-1 tvg-id="afnhd" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/ZRc1vDs1/images.jpg",AFN
-https://freem3u.xyz/api/live/play.m3u8?vid=215
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/fnxhd2/afchd_vhls.smil/chunklist_b5000000.m3u8
 
 #EXTINF:-1 tvg-id="kbsworld" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/FKfyLfWm/images-1.jpg",KBS World
-https://freem3u.xyz/api/live/play.m3u8?vid=213
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://sgclient.duckdns.org/source/tv360.m3u8?id=213
 
 #EXTINF:-1 tvg-id="davincihd" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/d15Jc1Fk/Da-Vinci-Kids-29.webp",DaVinci
-https://freem3u.xyz/api/live/play.m3u8?vid=214
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/fnxhd2/davincihd_vhls.smil/chunklist_b5000000.m3u8
 
 
 #--*.*--ĐỊA PHƯƠNG--*.*--#
