@@ -41,80 +41,129 @@ https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000
 #--*.*--VTVCab--*.*--#
 
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/7GSKm46.png",ON Vie Giải Trí
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=180
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-giai-tri-hd
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/MPNlpzb.png",ON Phim Việt
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=175&expires=1783586621&token=c5899262893971d94de76432e3611b7b
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/765Y3jw.png",ON Movies
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=181&expires=1783586621&token=7a735b8f70d1c4443d6bc72b449c2721
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/87JEXEQ.png",ON E Channel
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=182&expires=1783586621&token=0d6ccae52873b380f507b81d1735b11e
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/nqwVkmM.png",ON O2TV
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=136&expires=1783586621&token=c3cb0ad9112b9172cf4eda285a9528be
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/YFmPo7l.png",ON BiBi
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=178&expires=1783586621&token=316cf7b89f7583397b7371b4acf11f21
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/jp57P0v.png",ON Info TV
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=189
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=189&expires=1783586621&token=8bbbb0f268d908255c85e8cf496f19a0
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/6f9ngwY.png",ON Cine
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=176&expires=1783586621&token=1fe5553c999149bc33a494113f5207bd
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/6LQ0Z1O.png",ON Style TV
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=184
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=184&expires=1783586621&token=425a80c5cd2aa16a7a01ee741698385c
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/45BXPY3.png",ON Music
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=185&expires=1783586621&token=96814c5f1854938ce6aaba9b24c69ba2
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/hHYzxmS.png",ON Trending TV
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=186&expires=1783586621&token=a3991dc15f31e7162b7801a9576e35f1
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/n7QICK7.png",ON Vie DRAMAS
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=177
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-dramas-hd
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/R82M53x.png",ON VFamily
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=187&expires=1783586621&token=80e6c05b190b800acc5d636bb1712f8c
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/3XEFbua.png",ON KIDS
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=179&expires=1783586621&token=51b26effe9a536dd873ba06ad705f8fe
 #EXTINF:-1 group-title="🧡| VTVcab"  tvg-logo="https://i.postimg.cc/qRcdXxjd/ON-Life.webp",Life TV
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=188&expires=1783586621&token=a209001f767c47e53f438d61aa21f039
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.imgur.com/BGF2I58.png",ON Golf
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=169
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/key.php?id=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_GOLF_HD/manifest.mpd
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.postimg.cc/mgGjjVV6/On-Sport-10-08.png",ON SPORT
-https://freem3u.xyz/api/live/play.m3u8?oid=onsports
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/key.php?id=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_HD/manifest.mpd
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.postimg.cc/Y0sVjgHB/On-Sport-Plus.png",ON SPORT+
-https://freem3u.xyz/api/live/play.m3u8?oid=onsportsplus
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/key.php?id=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
+https://cdnet-cdn-01.onsports.vn/onplus/HAY_TV/manifest.mpd
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.postimg.cc/Dz7K9rfx/b78b7-ponfootballhd-channel-unkn.webp",ON FOOTBALL
-https://i.postimg.cc/Dz7K9rfx/b78b7-ponfootballhd-channel-unkn.webp
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/key.php?id=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
+https://cdnet-cdn-01.onsports.vn/onplus/BONGDA_HD/manifest.mpd
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.postimg.cc/nLLQHQ01/On-Sport-new.png",ON SPORT new
-https://freem3u.xyz/api/live/play.m3u8?oid=onsportsnews
+#KODIPROP:inputstream=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=clearkey 
+#KODIPROP:inputstream.adaptive.license_key=https://vpsttt.vietanhtv.top/tv/key.php?id=c410ddc6a75244639fd0561fba5ef19b:30d13ea42031b9ff8271e5dc37d90e10 
+https://cdnet-cdn-01.onsports.vn/onplus/THETHAO_TINTUC_HD/manifest.mpd
 #EXTINF:-1 group-title="🧡| VTVcab" tvg-logo="https://i.postimg.cc/zXtrsbHN/On-Sports-29-logo-2021.webp",ON SPORT TV
 https://freem3u.xyz/api/live/play.m3u8?oid=vothuatvn
 
 #--*.*--HTV--*.*--#
 
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/KEMSBD3.png", catchup="append" catchup-days="2" catchup-source="https://api.vthanhtivi.pw/v1/dvr/vieon/htv1/${start}/${offset}", HTV1
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=190
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vpsttt.vietanhtv.top/htv/htv.php?id=2631
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/Yc3cmAi.png", catchup="append" catchup-days="6" catchup-source="https://api.vthanhtivi.pw/v1/dvr/hplus/htv2-hd-2669/${start}/${offset}", HTV2
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=191
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vpsttt.vietanhtv.top/vieon/vieon.php?id=vie-channel-htv2-hd
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/2iE01Ca.png", catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/htv3_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", HTV3
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=192
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vpsttt.vietanhtv.top/htv/htv.php?id=2535
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/13jHqoG.png",HTV Key
-https://vc.101vn.com/htv/htvcmb.php?id=2528
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vpsttt.vietanhtv.top/htv/htv.php?id=2528
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/PPFu7pv.png",HTV7
-https://vc.101vn.com/htv/htvcmb.php?id=256
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vpsttt.vietanhtv.top/htv/htv.php?id=256
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/wdS7Cr9.png",HTV9
-https://vc.101vn.com/htv/htvcmb.php?id=2667
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vpsttt.vietanhtv.top/htv/htv.php?id=2667
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/cQZkjst.png",HTV CO.OP
 https://vc.101vn.com/htv/htvcmb.php?id=31973
 #EXTINF:-1 group-title="💛| HTV"   tvg-logo="https://i.postimg.cc/cLqbDS3Q/htv-Thethao.png",HTV Thể Thao
-https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/ZHVkEIC.png",HTVC Ca Nhạc
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/epzhd1/htvcmusic_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/XxIO0E0.png",HTVC Du Lịch và Cuộc Sống
-https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://live.fptplay53.net/epzhd1/htvcdulich_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/KxWRNH6.png",HTVC Gia Đình
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/epzhd1/htvcgiadinh_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/SXV3ya9.png",HTVC Phim
-https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=15&expires=1783586621&token=e03a74b7334336a3616391570fb93fc8
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
 https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
-https://freem3u.xyz/api/live/play.m3u8?vid=132
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:92.0) Gecko/20100101 Firefox/92.0
+https://vpsttt.vietanhtv.top/tv360/tv360.php?id=132&expires=1783586621&token=930a0eee47d74d33984dc192b7c04d82
 
 #EXTINF:-1 group-title="💖| HA NOI" tvg-logo="https://i.postimg.cc/m2XR3hQP/hn1.png",HANOI1
 https://live.fptplay53.net/fnxhd2/hanoitv1_vhls.smil/chunklist_b5000000.m3u8
