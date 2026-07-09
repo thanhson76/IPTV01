@@ -194,17 +194,17 @@ https://hoiquan.dpdns.org/VTVGo/?sctv21
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="HBO" group-title="🎬| In The Box"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://ace.hoiquan.click/AutoKey/admin
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 
-#EXTINF:-1 tvg-id="HBO" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/bwLh7kv2/592-5920199-home-cinemaworld-cinema-world-tv-hd-png-download.png",CINEMAWORLD 
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#EXTINF:-1 tvg-id="HBO" group-title="🎬| In The Box"  tvg-logo="https://toiyeuvietnam.dpdns.org/Logo/cinema-world/KenhCoBan.png",CINEMAWORLD 
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
+#KODIPROP:inputstream.adaptive.license_key=https://ace.hoiquan.click/AutoKey/admin
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="AXN" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/PrkK6MQc/AXN.png",AXN 
