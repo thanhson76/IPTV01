@@ -109,7 +109,7 @@ https://live.fptplay53.net/epzhd1/htvcmovieshd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/PLliKL6.png",HTVC Phụ Nữ
 https://live.fptplay53.net/epzhd1/htvcphunu_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/xmISDWo.png",HTVC Thuần Việt
-https://freem3u.xyz/api/live/play.m3u8?vid=13
+https://live.fptplay53.net/epzhd1/htvcthuanviethd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="💛| HTV" tvg-logo="https://i.imgur.com/SQ9cLJj.png",HTVC+
 https://freem3u.xyz/api/live/play.m3u8?vid=132
 
@@ -120,7 +120,8 @@ https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="💖| HA NOI" tvg-logo="https://i.postimg.cc/8Pz3F4S6/qpvn.png",QPVN
 https://live.fptplay53.net/fnxhd2/quocphongvnhd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="💖| HA NOI" tvg-logo="https://i.postimg.cc/PqYFGFmB/ANTV.jpg",ANTV
-https://freem3u.xyz/api/live/play.m3u8?vid=20
+https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist_b5000000.m3u8
+
 
 
 #--*.*--SCTV--*.*--#
@@ -192,6 +193,20 @@ https://hoiquan.dpdns.org/VTVGo/?sctv21
 #KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
 https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 
+#EXTINF:-1 tvg-id="HBO" group-title="🎬| In The Box"  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png",CINEMAX 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+
+#EXTINF:-1 tvg-id="HBO" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/bwLh7kv2/592-5920199-home-cinemaworld-cinema-world-tv-hd-png-download.png",CINEMAWORLD 
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/max.smil/manifest.mpd
+
 #EXTINF:-1 tvg-id="AXN" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/PrkK6MQc/AXN.png",AXN 
 catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/axnhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", AXN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -214,10 +229,6 @@ https://livevlisctcdnw.seenow.vn/mean/BOXHIT/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
 https://livevlisctcdnw.seenow.vn/mean/BM1/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="inthebox" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/ZqLYbjmM/box.png",In The Box
-https://freem3u.xyz/api/live/play.m3u8?vid=235
-
 #EXTINF:-1 tvg-id="inthebox" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/W3mRK1xc/KIX-tr3-Fc-2014.webp",KIX catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/kixhd_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", KIX HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist_b5000000.m3u8
@@ -237,7 +248,7 @@ https://livevlisctcdnw.seenow.vn/mean/HC/manifest.mpd
 https://freem3u.xyz/api/live/play.m3u8?vid=212
 
 #EXTINF:-1 tvg-id="womanhd" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/mZynmqwq/WOMAN-logo.png",Woman
-https://freem3u.xyz/api/live/play.m3u8?vid=163
+https://livevlisctcdnw.seenow.vn/mean/WO/manifest.mpd
 
 #EXTINF:-1 tvg-id="man" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/jjycLw39/MAN.png",Man
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
@@ -247,7 +258,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=163
 https://livevlisctcdnw.seenow.vn/mean/WO/manifest.mpd
 
 #EXTINF:-1 tvg-id="planetearthhd" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/25JqR2xN/Planet-Earth-logo.webp",Planet Earth
-https://freem3u.xyz/api/live/play.m3u8?vid=135
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/ap.smil/manifest.mpd
 
 #EXTINF:-1 tvg-id="drfithd" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/mgnZth1Q/Dr-Fit-Channel-logo-Gi-ng-sinh-2018.webp",Dr Fit
 https://freem3u.xyz/api/live/play.m3u8?vid=162
@@ -255,6 +266,7 @@ https://freem3u.xyz/api/live/play.m3u8?vid=162
 #EXTINF:-1 tvg-id="outdoorhd" group-title="🎬| In The Box"  tvg-logo="https://i.postimg.cc/155yBDpG/Outdoor-Channel.webp",Outdoor
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/outdoorfhd_vhls.smil/chunklist_b5000000.m3u8
+
 #EXTINF:-1 tvg-id="historyhd" group-title="Quốc Tế" tvg-logo="https://img-zlr1.tv360.vn/image1/2024/06/03/22/1717427367441/869de47c9504_640_360.png", History HD
 https://sgclient.duckdns.org/source/tv360.m3u8?id=9856
 
